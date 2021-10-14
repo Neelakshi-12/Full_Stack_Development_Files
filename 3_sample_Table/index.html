@@ -1,0 +1,110 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Content</title>
+</head>
+<style>
+    .main_heading {
+        text-align: center;
+    }
+
+    th,
+    td,
+    p,
+    input {
+        font: 14px Verdana;
+    }
+
+    table,
+    th,
+    td {
+        border: solid 1px #DDD;
+        border-collapse: collapse;
+        padding: 2px 3px;
+        text-align: center;
+    }
+
+    th {
+        font-weight: bold;
+    }
+</style>
+
+<body>
+    <article style="margin-left: 30%;margin-right: 30%">
+        <header class=" main_heading">
+                <h1 style="font-size: 28px;">Main Books</h1>
+            <p>Posted by <b>Neelakshi</b></p>
+            <hr>
+            <p style="color: red;font-weight: bold;">Learn Books and Explore Learning..</p>
+            <hr>
+            <br>
+        </header>
+        <input type="button" style="color:white;background-color: grey;padding: 1%;border-radius: 30px;"
+            onclick="CreateTableFromJSON()" value="Display Books List" />
+        <p id="showData"></p>
+    </article>
+
+</body>
+<script>
+    function CreateTableFromJSON() {
+        var myBooks = [
+            {
+                "Book ID": "1",
+                "Book Name": "The Turn of the Screw by Henry James (1898)",
+                "Category": "Scariest Books",
+                "Rating": "4.5"
+            },
+            {
+                "Book ID": "2",
+                "Book Name": "The Haunting of Hill House by Shirley Jackson",
+                "Category": "Scariest Books",
+                "Rating": "3.8"
+            },
+            {
+                "Book ID": "3",
+                "Book Name": "Grown Ups by Marian Keyes (2020)",
+                "Category": "Funny books",
+                "Rating": "4.2"
+            }
+        ]
+
+        var col = [];
+        for (var i = 0; i < myBooks.length; i++) {
+            for (var key in myBooks[i]) {
+                if (col.indexOf(key) === -1) {
+                    col.push(key);
+                }
+            }
+        }
+
+        var table = document.createElement("table");
+
+
+        var tr = table.insertRow(-1);
+
+        for (var i = 0; i < col.length; i++) {
+            var th = document.createElement("th");
+            th.innerHTML = col[i];
+            tr.appendChild(th);
+        }
+
+        for (var i = 0; i < myBooks.length; i++) {
+
+            tr = table.insertRow(-1);
+
+            for (var j = 0; j < col.length; j++) {
+                var tabCell = tr.insertCell(-1);
+                tabCell.innerHTML = myBooks[i][col[j]];
+            }
+        }
+
+        var divContainer = document.getElementById("showData");
+        divContainer.innerHTML = "";
+        divContainer.appendChild(table);
+    }
+</script>
+
+</html>

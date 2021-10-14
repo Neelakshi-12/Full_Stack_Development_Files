@@ -1,0 +1,98 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Books</title>
+  <style>
+    .header_main {
+      font-size: 30px;
+      text-align: center;
+      font-weight: bold;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .header_text {
+      display: none;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .header_text {
+        display: block;
+      }
+
+      .for_images,
+      .header_main {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h3 class="header_main">
+    Different Books in Different Categories with Different Excitement..
+  </h3>
+  <h4 class="header_text" style="font-size: 32px;text-align: center;padding-top: 50%;">Not For Android (Only for Web
+    View).</h4>
+  <div class="for_images">
+    <div class="banner-section" id="img-container">
+    </div>
+  </div>
+</body>
+
+<script>
+
+  var data = {
+    "books": [
+      {
+        "bookImg1": "https://cdn.aarp.net/content/dam/aarp/entertainment/books/2020/10/1140-the-shining.imgcache.rev.web.300.462.jpg"
+      },
+      {
+        "bookImg1": "https://cdn.aarp.net/content/dam/aarp/entertainment/books/2020/10/1140-the-haunting-of-mill-house.imgcache.rev.web.300.456.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/110/1101015/9781787533202.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/289/289979/9780241243503.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/603/60349/9780141920146.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/245/24575/9780141939230.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/306/306118/9780141046426.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/570/57022/9780141182599.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/273/273734/9780718179748.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+      {
+        "bookImg1": "https://www.penguin.co.uk/content/dam/prh/books/107/1070115/9781407037783.jpg.transform/PRHDesktopWide_small/image.jpg"
+      },
+
+    ]
+  };
+
+
+  data.books.forEach(function (obj) {
+    var img = new Image();
+    img.src = obj.bookImg1;
+    img.setAttribute("class", "banner-img");
+    img.setAttribute("alt", "book");
+    // img.setAttribute("height","50%");
+    // img.setAttribute("width","20%");
+
+    document.getElementById("img-container").appendChild(img);
+  });
+
+</script>
+
+</html>

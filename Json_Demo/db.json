@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Tamarala",
+      "last_name": "Neelakshi",
+      "email": "tamu@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Shreya ",
+      "last_name": "Saxena",
+      "email": "shreya@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Rochna",
+      "last_name": "Trivedi",
+      "email": "rochna@gmail.com"
+    },
+    {
+      "first_name": "Shweta",
+      "last_name": "Rai",
+      "email": "shweta@gmail.com",
+      "id": 4
+    },
+    {
+      "first_name": "Shweta",
+      "last_name": "Rai",
+      "email": "shweta@gmail.com",
+      "id": 5
+    }
+  ]
+}

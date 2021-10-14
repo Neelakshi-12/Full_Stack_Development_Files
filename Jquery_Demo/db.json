@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "sdas Ali",
+      "age": "679",
+      "sex": "female"
+    },
+    {
+      "id": 2,
+      "name": "Zaghfgra Ali",
+      "age": "617",
+      "sex": "male"
+    },
+    {
+      "name": "Neelakshi",
+      "sex": "female",
+      "age": "21",
+      "id": 3
+    },
+    {
+      "name": "Zcvbara Ali",
+      "age": "674",
+      "sex": "male",
+      "id": 4
+    },
+    {
+      "name": "John",
+      "sex": "male",
+      "age": "31",
+      "id": 5
+    }
+  ]
+}
