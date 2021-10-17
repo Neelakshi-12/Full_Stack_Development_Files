@@ -1,0 +1,49 @@
+{
+  "employeesList": [
+    {
+      "id": 1,
+      "fullName": "Neelakshi",
+      "email": "neelakshi@gmail.com",
+      "empCode": "6",
+      "salary": "200000",
+      "city": "UP",
+      "status": "Active 🟢"
+    },
+    {
+      "id": 2,
+      "fullName": "Shreya ",
+      "email": "shreya@gmail.com",
+      "empCode": "6",
+      "salary": "100000",
+      "city": "UP",
+      "status": "In-Active 🔴"
+    },
+    {
+      "fullName": "mani",
+      "email": "mani@gmail.com",
+      "empCode": "1",
+      "salary": "3000000",
+      "city": "jharkhand",
+      "id": 3,
+      "status": "Active 🟢"
+    },
+    {
+      "fullName": "jogi",
+      "email": "jogi@gmail.com",
+      "empCode": "12",
+      "salary": "4000000",
+      "city": "bhopal",
+      "status": "In-active🔴",
+      "id": 4
+    },
+    {
+      "fullName": "chakri",
+      "email": "chakri@Gmail.com",
+      "empCode": "8",
+      "salary": "200000",
+      "city": "jkj",
+      "status": "active🟢",
+      "id": 5
+    }
+  ]
+}

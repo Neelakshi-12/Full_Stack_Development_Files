@@ -17,16 +17,41 @@ function getEmployeeList() {
 //Read Employees
 function displayEmployees() {
   console.log("displayEmployees");
-  let employeesDispCont = employeesList.map(
-    (employee) => `<li> ${employee.first_name}-${employee.email} </li>`
-  );
-  console.log("employeesDispCont", employeesDispCont);
-  let element = document.getElementById("employeeList");
-  let innerHTML = "";
-  for (let index = 0; index < employeesDispCont.length; index++) {
-    innerHTML = innerHTML.concat(employeesDispCont[index]);
-  }
-  element.innerHTML = innerHTML;
+  // let employeesDispCont = employeesList.map(
+  //   (employee) => `<li> ${employee.first_name}-${employee.email} </li>`
+  // );
+  // console.log("employeesDispCont", employeesDispCont);
+  // let element = document.getElementById("employeeList");
+  // let innerHTML = "";
+  // for (let index = 0; index < employeesDispCont.length; index++) {
+  //   innerHTML = innerHTML.concat(employeesDispCont[index]);
+  // }
+  // element.innerHTML = innerHTML;
+  fetch("http://localhost:3000/employees").then((res) => {
+    res.json().then((data) => {
+      console.log("data", data);
+      if (data.length > 0) {
+        var temp = " ";
+
+        data.forEach((u) => {
+          temp += "<tr>";
+          temp += "<td>" + u.id + "</td>";
+          temp += "<td>" + u.first_name + "</td>";
+          temp += "<td>" + u.last_name + "</td>";
+          temp += "<td>" + u.email + "</td>";
+
+          temp +=
+            "<td>" +
+            "<button onclick='updateEmployee()' type='button' class='btn btn-warning'>Update Employee</button> " +
+            " " +
+            " <button onclick='deleteEmployee()' type='button' class='btn btn-danger'>Delete Employee</button>" +
+            "</td> </tr>";
+        });
+
+        document.getElementById("data").innerHTML = temp;
+      }
+    });
+  });
 }
 //Create Employees
 function addEmployee() {
