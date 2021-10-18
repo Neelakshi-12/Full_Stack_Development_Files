@@ -35,15 +35,6 @@
       "city": "bhopal",
       "status": "In-active🔴",
       "id": 4
-    },
-    {
-      "fullName": "chakri",
-      "email": "chakri@Gmail.com",
-      "empCode": "8",
-      "salary": "200000",
-      "city": "jkj",
-      "status": "active🟢",
-      "id": 5
     }
   ]
 }

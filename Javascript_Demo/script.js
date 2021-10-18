@@ -27,9 +27,9 @@ function displayEmployees() {
           temp += "<td>" + u.status + "</td>";
           temp +=
             "<td>" +
-            "<button onclick='onEdit(this)' data-bs-toggle='modal' data-bs-target='#exampleModal' type='button' class='btn btn-warning'> <i class='bi bi-pencil-square'></i> Update Employee</button> " +
+            `<button onclick='onEdit(this,${u.id})' data-bs-toggle='modal' data-bs-target='#exampleModal' type='button' class='btn btn-warning'> <i class='bi bi-pencil-square'></i> Update Employee</button> ` +
             " " +
-            " <button onclick='onDelete(this)'  type='button' class='btn btn-danger'> <i class='bi bi-trash-fill'></i>  Delete Employee</button>" +
+            `<button onclick=onDelete(this,${u.id})  type='button' class='btn btn-danger'> <i class='bi bi-trash-fill'></i>  Delete Employee</button>` +
             "</td> </tr>";
         });
 
@@ -56,7 +56,7 @@ function readFormData() {
 }
 
 function insertNewRecord(data) {
-  fetch("http://localhost:3000/employeesList", {
+  fetch("http://localhost:3000/employeesList/" + id, {
     method: "POST",
     headers: {
       "Content-type": "application/json",
@@ -80,8 +80,9 @@ function resetForm() {
   selectedRow = null;
 }
 
-function onEdit(td) {
+function onEdit(td, id) {
   console.log("td", td);
+
   selectedRow = td.parentElement.parentElement;
   console.log("selectedRow", selectedRow);
   fetch("http://localhost:3000/employeesList", {
@@ -110,12 +111,14 @@ function updateRecord(formData) {
   selectedRow.cells[5].innerHTML = formData.status;
 }
 
-function onDelete(td) {
+function onDelete(td, id) {
+  console.log("id", id);
+  console.log("td", td);
   if (confirm("Are you sure to delete this record ?")) {
     row = td.parentElement.parentElement;
     document.getElementById("employeeList").deleteRow(row.rowIndex);
     resetForm();
-    fetch("http://localhost:3000/employeesList/" + td, {
+    fetch("http://localhost:3000/employeesList/" + id, {
       method: "DELETE",
     });
   }
