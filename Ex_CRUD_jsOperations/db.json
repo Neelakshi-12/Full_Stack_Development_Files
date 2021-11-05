@@ -1,0 +1,56 @@
+{
+  "tasks": [
+    {
+      "title": "jojo  ",
+      "summary": "Task Manager, previously known as Windows Task Manager.",
+      "date": "2021-11-13",
+      "time": "15:01",
+      "id": 1
+    },
+    {
+      "title": "Kiliki Assignment",
+      "summary": "Task Manager, previously known as Windows Task Manager.",
+      "date": "2021-11-04",
+      "time": "17:01",
+      "id": 2
+    },
+    {
+      "title": "Science Assignment",
+      "summary": "Task Manager, previously known as Windows Task Manager.",
+      "date": "2021-11-21",
+      "time": "22:24",
+      "id": 3
+    },
+    {
+      "title": "Social Assignment",
+      "summary": "Task Manager, previously known as Windows Task Manager.",
+      "date": "2021-11-14",
+      "time": "03:08",
+      "id": 4
+    },
+    {
+      "title": "HINDI ASSIGNMENT",
+      "summary": "JHSDK lhds lAKJHDS  LKHD KJah sdkj",
+      "date": "2021-11-27",
+      "time": "02:48",
+      "id": 5
+    }
+  ],
+
+  "scheduler": [
+    {
+      "status": "Not Completed",
+      "inputsummary": "Task Manager, previously known as Windows Task Manager.",
+      "inputdate": "2021-11-13",
+      "inputtime": "15:01",
+      "id": 1
+    },
+    {
+      "status": "Completed",
+      "inputsummary": "Task Manager, previously known as Windows Task Manager.",
+      "inputdate": "2021-11-04",
+      "inputtime": "17:01",
+      "id": 2
+    }
+  ]
+}

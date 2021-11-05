@@ -56,7 +56,7 @@ function readFormData() {
 }
 
 function insertNewRecord(data) {
-  fetch("http://localhost:3000/employeesList/" + id, {
+  fetch("http://localhost:3000/employeesList", {
     method: "POST",
     headers: {
       "Content-type": "application/json",

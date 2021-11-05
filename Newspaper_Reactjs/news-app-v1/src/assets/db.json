@@ -1,0 +1,284 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "'NBA 2K22 Arcade Edition' hits Apple Arcade on October 19th",
+      "description": "NBA 2K22 Arcade Edition is one of several games that's bound for Apple Arcade\r\n in the coming weeks. The follow-up to NBA 2K21, which is also available on Apple's game subscription service, includes a new mode called The Association. You can become the genera…",
+      "url": "https://www.engadget.com/apple-arcade-nba-2-k-22-arcade-edition-tiny-wings-141053090.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/8ccde650-2c2c-11ec-bbfb-cd4d34b6f843",
+      "publishedAt": "2021-10-13T14:10:53Z",
+      "content": "NBA 2K22 Arcade Edition is one of several games that's bound for Apple Arcade\r\n in the coming weeks. The follow-up to NBA 2K21, which is also available on Apple's game subscription service, includes … [+1338 chars]"
+    },
+    {
+      "id": 2,
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: Someone made a USB-C iPhone",
+      "description": "Years ago, I wrote this piece about how I really wanted the iPhone to adopt USB-C and retire its Lightning connector. This was just after the advent of the company’s first iPhone Pro models with pro level features, like surgical-grade stainless steel and, er,…",
+      "url": "https://www.engadget.com/the-morning-after-someone-made-a-usb-c-i-phone-111525796.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/52ab9c50-2b4c-11ec-9b95-b31298297f21",
+      "publishedAt": "2021-10-13T11:15:25Z",
+      "content": "Years ago, I wrote this piece about how I really wanted the iPhone to adopt USB-C and retire its Lightning connector. This was just after the advent of the companys first iPhone Pro models with pro l… [+4520 chars]"
+    },
+    {
+      "id": 3,
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dieter Bohn",
+      "title": "Apple Watch Series 7 review: time and time again",
+      "description": "It’s good, but if your Apple Watch is fine, you’re good, too.",
+      "url": "https://www.theverge.com/22722533/apple-watch-series-7-review-screen-watchos-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jO3XOGtd6YX1iE7O4Z0j_4njDKo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22908906/vpavic_211006_4796_0061.jpg",
+      "publishedAt": "2021-10-13T13:00:00Z",
+      "content": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.The most important questions to ask about the new Apple Watch Series 7 arent about the Apple Watch Se… [+10699 chars]"
+    },
+    {
+      "id": 4,
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "Apple exploring AirPods that take your temperature and monitor posture: report",
+      "description": "Apple is reportedly looking into adding new health-focused features for the AirPods, including monitoring a user’s temperature and posture, according to The Wall Street Journal.",
+      "url": "https://www.theverge.com/2021/10/13/22724066/apple-airpods-temperature-posture-hearing-aid-plans",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qJsnUPWIE2B2BxIyZH7rBx2aO6Q=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8321539/akrales_161216_1332_A_0259_v1.jpg",
+      "publishedAt": "2021-10-13T12:21:23Z",
+      "content": "Possible expansions of the companys health tech offerings\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nApple is reportedly exploring new health-focused features for its AirPods, according to The Wal… [+1819 chars]"
+    },
+    {
+      "id": 5,
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ian Carlos Campbell",
+      "title": "Luna Display can now turn your iPad into a second screen for Windows devices",
+      "description": "Astropad is introducing Windows support to its wireless external display dongle, Luna Display. The 5.0 release is available now, along with new USB-C and HDMI dongles, letting Windows PC owners use their iPads as a second monitor.",
+      "url": "https://www.theverge.com/2021/10/13/22724866/luna-display-windows-support-ipad-second-screen",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wnuDfNkCi12Hgwt_3KKnUqDWW-M=/0x17:1572x840/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22924625/Screenshot_2021_10_13_12.58.42_PM.png",
+      "publishedAt": "2021-10-13T21:00:59Z",
+      "content": "Another path forward after getting sherlocked by Apple\r\nImage: Astropad\r\nAstropads Luna Display is a handy way to turn an iPad or another Mac into a wireless external monitor for Apples computers. No… [+1927 chars]"
+    },
+    {
+      "id": 6,
+      "source": {
+        "id": null,
+        "name": "Blogspot.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "Google Pixel 6 Pro camera module may not be user-replaceable",
+      "description": "As we approach the release date of the Google Pixel 6 Pro, it seemed like we knew everything there was to know about the upcoming Google phones. We've seen \r\nrenders, spec sheets, even teardowns, camera samples, and pricing for some markets. What we're learni…",
+      "url": "https://techncruncher.blogspot.com/2021/10/google-pixel-6-pro-camera-module-may.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhlCZrR8f8ksVQYsAjw_b1ItI2-TmEqry-h57E_VsFlJbW1u3GpW9RjLyjFh3PknfeVCEE9B6aMQ-XsKXogoTtltPWF2o6bzTFzHaAHApQtzR5GAcgTngbiCCMUx7Gn7v2r5QLyAPbY0rkmyyWtmLdFXIwV9eYXG84vE8CRfWZ_V194TB03lNtIDqGsLQ=w1200-h630-p-k-no-nu",
+      "publishedAt": "2021-10-13T08:06:00Z",
+      "content": "As we approach the release date of the Google Pixel 6 Pro, it seemed like we knew everything there was to know about the upcoming Google phones. We've seen renders, spec sheets, even teardowns, camer… [+1851 chars]"
+    },
+    {
+      "id": 7,
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Brianna Provenzano",
+      "title": "Apple TV+ Reportedly Struggling to Control Digital Piracy ",
+      "description": "While it’s no secret that Apple executives sit up in their sierra blue\r\n ivory tower and count their guilders as the most profitable company in the world, the company’s streaming arm, Apple TV+, is relatively new and has yet to see the same staggering returns…",
+      "url": "https://gizmodo.com/apple-tv-reportedly-struggling-to-control-digital-pira-1847857581",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fb935a575c5f06786f02317e28819084.jpg",
+      "publishedAt": "2021-10-13T20:30:00Z",
+      "content": "While its no secret that Apple executives sit up in their sierra blue\r\n ivory tower and count their guilders as the most profitable company in the world, the companys streaming arm, Apple TV+, is rel… [+3110 chars]"
+    },
+    {
+      "id": 8,
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "David Nield",
+      "title": "How to Set Up All the iCloud+ Features in iOS 15",
+      "description": "If you already pay Apple for extra iCloud storage beyond the 5GB default, or you start paying in the future, you get a bunch of extra features thrown in as part of a subscription Apple is calling iCloud+. iCloud+ has rolled out alongside iOS 15 and iPadOS 15,…",
+      "url": "https://gizmodo.com/how-to-set-up-all-the-icloud-features-in-ios-15-1847826217",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5aba8829b57618b951f4e0037b14ea61.jpg",
+      "publishedAt": "2021-10-13T12:30:00Z",
+      "content": "If you already pay Apple for extra iCloud storage beyond the 5GB default, or you start paying in the future, you get a bunch of extra features thrown in as part of a subscription Apple is calling iCl… [+4898 chars]"
+    },
+    {
+      "id": 9,
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Andrew Liszewski",
+      "title": "reMarkable's E Ink Tablet Now Requires a Subscription to Access Its Best Features",
+      "description": "Of the growing number of E Ink based e-note devices hitting the market, none provide as excellent a simulated pen-on-paper experience as the reMarkable tablet. But reMarkable isn’t Apple, and being a company that makes just one device isn’t easy, so new owner…",
+      "url": "https://gizmodo.com/remarkables-e-ink-tablet-now-requires-a-subscription-to-1847856223",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7d6436083e417cbeaba3db31af736768.jpg",
+      "publishedAt": "2021-10-13T18:50:00Z",
+      "content": "Of the growing number of E Ink based e-note devices hitting the market, none provide as excellent a simulated pen-on-paper experience as the reMarkable tablet. But reMarkable isnt Apple, and being a … [+2416 chars]"
+    },
+    {
+      "id": 10,
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Caitlin McGarry",
+      "title": "Surprise! Samsung Is Also Having an Event Next Week",
+      "description": "If you love gadgets, next week is going to be a pretty big deal. Samsung just announced that its next event, Galaxy Unpacked part two, is on Wednesday, Oct. 20. Apple’s second fall event, where we expect to see new MacBooks and AirPods, is Monday, Oct. 18, an…",
+      "url": "https://gizmodo.com/surprise-samsung-is-also-having-an-event-next-week-1847851626",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9efa8e7f54276fe95af253ff1a014c14.png",
+      "publishedAt": "2021-10-13T00:45:00Z",
+      "content": "If you love gadgets, next week is going to be a pretty big deal. Samsung just announced that its next event, Galaxy Unpacked part two, is on Wednesday, Oct. 20. Apples second fall event, where we exp… [+1581 chars]"
+    },
+    {
+      "id": 11,
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Victoria Song",
+      "title": "HTC's New VR Headset Leaked, and It's the Weirdest-Looking One Yet",
+      "description": "Even if you put aside its decidedly bug-eyed appearance, the leaked HTC Vive Flow is a baffling headset. By all accounts, it’s supposed to be a standalone consumer VR device that’s made for activities like meditating and streaming media. It also will allegedl…",
+      "url": "https://gizmodo.com/htcs-new-vr-headset-leaked-and-its-the-weirdest-lookin-1847856650",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/15153b55121bbe918cc94be0699242d1.jpg",
+      "publishedAt": "2021-10-13T21:02:00Z",
+      "content": "Even if you put aside its decidedly bug-eyed appearance, the leaked HTC Vive Flow is a baffling headset. By all accounts, its supposed to be a standalone consumer VR device thats made for activities … [+4701 chars]"
+    },
+    {
+      "id": 12,
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Apple shares drop on reports of iPhone 13 chip shortage",
+      "description": "Bloomberg reported that Apple could produce up to 10 million fewer iPhones due to the chip shortage.",
+      "url": "https://www.bbc.co.uk/news/business-58892176",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C2F/production/_121059672_iphone13.jpg",
+      "publishedAt": "2021-10-13T00:17:52Z",
+      "content": "Apple's shares dropped on Tuesday following reports it could slash its iPhone 13 production targets due to the ongoing global computer chip shortage.\r\nThe electronic giant had expected to make 90 mil… [+2253 chars]"
+    },
+    {
+      "id": 13,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Apple likely to cut production of iPhone 13 - report - Reuters",
+      "description": "Apple Inc is likely to cut down production of its iPhone 13 by as many as 10 million units due to the global chip shortage, Bloomberg News reported on Tuesday, citing people familiar with the matter.  Flora Bradley-Watson reports.",
+      "url": "https://www.reuters.com/video/watch/idOVEYZYOP7",
+      "urlToImage": "https://static.reuters.com/resources/r/?d=20211013&i=OVEYZYOP7&r=OVEYZYOP7&t=2",
+      "publishedAt": "2021-10-13T05:10:49Z",
+      "content": "Posted \r\nApple Inc is likely to cut down production of its iPhone 13 by as many as 10 million units due to the global chip shortage, Bloomberg News reported on Tuesday, citing people familiar with th… [+38 chars]"
+    },
+    {
+      "id": 14,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Apple warns of cybercrime risks if EU forces it to allow others' software - Reuters",
+      "description": "Apple <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> on Wednesday ramped up its criticism of EU draft rules that would force it to allow users to install software from outside its App Store, citing the risks posed by cybercrim…",
+      "url": "https://www.reuters.com/technology/apple-warns-cybercrime-risks-if-eu-forces-it-allow-others-software-2021-10-13/",
+      "urlToImage": "https://www.reuters.com/resizer/hOyLByHKIG1GbDuzsVu8YmQBmYc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4YHW6BSRCJLPDL3BF5YRUYMSDY.jpg",
+      "publishedAt": "2021-10-13T12:02:00Z",
+      "content": "Apple logo is seen on the Apple store at The Marche Saint Germain in Paris, France July 15, 2020. REUTERS/Gonzalo FuentesBRUSSELS, Oct 13 (Reuters) - Apple (AAPL.O) on Wednesday ramped up its critici… [+1762 chars]"
+    },
+    {
+      "id": 15,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Scarce chips may pinch Apple's iPhone holiday sales, analysts see rebound next year - Reuters",
+      "description": "The global chip shortage could be creeping its way to Apple's newest iPhone 13 smartphones, but analysts think that the technology giant can weather the impact by making up for any lost holiday sales with a stronger showing next year.",
+      "url": "https://www.reuters.com/technology/scarce-chips-may-pinch-apples-iphone-holiday-sales-analysts-see-rebound-next-2021-10-13/",
+      "urlToImage": "https://www.reuters.com/resizer/QJjT15qdnxRvY3AD_KvMylQTJmY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLYCUWCQ7NLCBGO73VDZAGKL3I.jpg",
+      "publishedAt": "2021-10-13T17:07:00Z",
+      "content": "The Apple Inc. logo is seen hanging at the entrance to the Apple store on 5th Avenue in Manhattan, New York, U.S., October 16, 2019. REUTERS/Mike SegarOct 13 (Reuters) - The global chip shortage coul… [+2625 chars]"
+    },
+    {
+      "id": 16,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Carl Pei's Nothing raises $50 mln, partners with Qualcomm - Reuters",
+      "description": "Technology company Nothing, founded by OnePlus co-founder Carl Pei, on Wednesday said it has raised $50 million from strategic and private investors, and has partnered with U.S. chipmaker Qualcomm.",
+      "url": "https://www.reuters.com/article/nothing-qualcomm-idUSL4N2R91HS",
+      "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+      "publishedAt": "2021-10-13T09:02:00Z",
+      "content": "By Reuters Staff\r\nSTOCKHOLM, Oct 13 (Reuters) - Technology company Nothing, founded by OnePlus co-founder Carl Pei, on Wednesday said it has raised $50 million from strategic and private investors, a… [+970 chars]"
+    },
+    {
+      "id": 17,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Carl Pei's Nothing raises $50 mln, partners with Qualcomm - Reuters",
+      "description": "Technology company Nothing, founded by OnePlus co-founder Carl Pei, on Wednesday said it has raised $50 million from strategic and private investors, and has partnered with U.S. chipmaker Qualcomm <a href=\"https://www.reuters.com/companies/QCOM.O\" target=\"_bl…",
+      "url": "https://www.reuters.com/technology/carl-peis-nothing-raises-50-mln-partners-with-qualcomm-2021-10-13/",
+      "urlToImage": "https://www.reuters.com/resizer/q6wim-gDz0rKvKo0jMNKfJnyDyw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F3ZFPS3UW5KORHMJRG7WQX5BLE.jpg",
+      "publishedAt": "2021-10-13T09:08:00Z",
+      "content": "Qualcomm logo is during Munich Auto Show, IAA Mobility 2021 in Munich, Germany, September 8, 2021. REUTERS/Wolfgang RattaySTOCKHOLM, Oct 13 (Reuters) - Technology company Nothing, founded by OnePlus … [+1103 chars]"
+    },
+    {
+      "id": 18,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Sruthi Shankar",
+      "title": "European stocks extend losses, SAP shines after forecast lift - Reuters",
+      "description": "European stocks extend losses, SAP shines after forecast lift  Reuters",
+      "url": "https://www.reuters.com/article/europe-stocks-idUSL4N2R91O5",
+      "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+      "publishedAt": "2021-10-13T09:03:00Z",
+      "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* German DAX in positive territory\r\n* LVMH higher after Q3 results\r\n* Apple suppliers fal… [+2739 chars]"
+    },
+    {
+      "id": 19,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "China Sept exports rise 28.1% y/y, better than forecast - Reuters.com",
+      "description": "China's export growth was faster than expected in September, as solid global demand offset some of the pressure on factories from power shortages and a resurgence of domestic COVID-19 cases.",
+      "url": "https://www.reuters.com/article/china-economy-trade-idUSKBN2H305U",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20211013&t=2&i=1577658177&r=LYNXMPEH9C025&w=800",
+      "publishedAt": "2021-10-13T03:18:00Z",
+      "content": "By Reuters Staff\r\nBEIJING (Reuters) - Chinas export growth was faster than expected in September, as solid global demand offset some of the pressure on factories from power shortages and a resurgence… [+2224 chars]"
+    },
+    {
+      "id": 20,
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "European business group says China power cuts poorly communicated - Reuters",
+      "description": "China's power shortages will likely force some European companies operating there to delay orders and some firms are unhappy about how authorities notify them about power cuts, a European business group said on Wednesday.",
+      "url": "https://www.reuters.com/business/energy/european-business-group-says-china-power-cuts-poorly-communicated-2021-10-13/",
+      "urlToImage": "https://www.reuters.com/resizer/ei6Z3XasZ0zJAWlPx-tY7fZ6a68=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FUPUQVA3ZVPEXDKAIZ5NCCJNVQ.jpg",
+      "publishedAt": "2021-10-13T06:16:00Z",
+      "content": "An electricity pylon and powers lines are seen against a backdrop of wind turbines in Zhangjiakou, Hebei province, China July 15, 2021. REUTERS/Tingshu WangSHANGHAI, Oct 13 (Reuters) - China's power … [+2283 chars]"
+    }
+  ]
+}

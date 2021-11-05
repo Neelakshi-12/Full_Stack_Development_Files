@@ -1,0 +1,8 @@
+.jumbotron {
+  background-color: #c2e8ff;
+  padding: 30px;
+}
+.scroll {
+  max-height: 70vh;
+  overflow-y: auto;
+}

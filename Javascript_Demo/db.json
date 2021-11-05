@@ -35,6 +35,15 @@
       "city": "bhopal",
       "status": "In-active🔴",
       "id": 4
+    },
+    {
+      "fullName": "fdsfa",
+      "email": "adsf3@sdfa",
+      "empCode": "3213",
+      "salary": "12211122",
+      "city": "dssd",
+      "status": "no",
+      "id": 5
     }
   ]
 }
